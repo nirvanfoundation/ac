@@ -64,8 +64,9 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://https://nirvanfoundation.github.io/ac/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/nirvanfoundation\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://https://nirvanfoundation.github.io/ac/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"170af3dd4c"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"acb3e29c7b"};</script>
 <script src="https://https://nirvanfoundation.github.io/ac/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
-	<div class="clear"></div>
+			<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
+				<div class="clear"></div>
 	</body>
 	</html>
