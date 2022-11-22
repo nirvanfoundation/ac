@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Nirvan Foundation	</title>
-	<atom:link href="https://https://nirvanfoundation.github.io/ac/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://nirvanfoundation.github.io/ac</link>
+	<atom:link href="https://nirvanfoundation.github.io/ac/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nirvanfoundation.github.io/ac</link>
 	<description></description>
 	<lastBuildDate>Tue, 22 Nov 2022 11:35:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/#comment-1</link>
+		<link>https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 22 Nov 2022 11:35:43 +0000</pubDate>
-		<guid isPermaLink="false">https://https://nirvanfoundation.github.io/ac/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://nirvanfoundation.github.io/ac/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

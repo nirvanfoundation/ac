@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Nirvan Foundation</title>
-	<atom:link href="https://https://nirvanfoundation.github.io/ac/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://nirvanfoundation.github.io/ac</link>
+	<atom:link href="https://nirvanfoundation.github.io/ac/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nirvanfoundation.github.io/ac</link>
 	<description></description>
 	<lastBuildDate>Tue, 22 Nov 2022 11:35:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/</link>
-					<comments>https://https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/#comments</comments>
+		<link>https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/</link>
+					<comments>https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[nirvanfoundation]]></dc:creator>
 		<pubDate>Tue, 22 Nov 2022 11:35:43 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://nirvanfoundation.github.io/ac/?p=1</guid>
+		<guid isPermaLink="false">https://nirvanfoundation.github.io/ac/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nirvanfoundation.github.io/ac/2022/11/22/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
